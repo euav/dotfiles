@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Rosé Pine",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "terminal.integrated.fontFamily": "Iosevka Term",
+    "terminal.integrated.minimumContrastRatio": 1,
+    "window.zoomLevel": 3,
+    "vim.easymotion": true,
+    "vim.leader": " ",
+    "vim.sneakReplacesF": true,
+    "vim.sneak": true,
+    "vim.insertModeKeyBindings": [
+    {
+        "before": ["j", "k"],
+        "after": ["<Esc>"]
+    }
+],
+"window.menuBarVisibility": "toggle",
+"cmake.configureOnOpen": true,
+"editor.fontFamily": "'Iosevka Term', 'monospace', monospace",
+"editor.fontLigatures": true
+}
